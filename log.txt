@@ -1,0 +1,7 @@
+total 4
+-rw-rw-r-- 1 roza roza  0 Հնվ 15 11:13 index.js
+-rw-rw-r-- 1 roza roza 27 Հնվ 15 11:18 index.py
+-rw-rw-r-- 1 roza roza  0 Հնվ 15 11:38 log.txt
+index.js
+index.py
+log.txt
